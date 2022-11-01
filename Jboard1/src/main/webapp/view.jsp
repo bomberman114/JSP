@@ -205,7 +205,7 @@
             	<input type="hidden" name="no" value="<%= no %>">
             	<input type="hidden" name="uid" value="<%= ub.getUid() %>">
                 <textarea name="content" placeholder="댓글을 입력하세요."></textarea>
-                <div>1
+                <div>
                     <a href="#" class="btn btnCancel">취소</a>
                     <input type="submit" value="작성완료" class="btn btnComplete"/>
                 </div>
