@@ -15,10 +15,10 @@ public class GmailTest {
 	public static void main(String[] args) {
 		
 		// 기본정보
-		String sender = "chhak0503@gmail.com";
-		String password = "ubqyyhrbehqxvawu";
+		String sender = "mielmer016@gmail.com";
+		String password = "sbxvtwgdwegrrsrr";
 		
-		String receiver = "1999millenni@naver.com";
+		String receiver = "switchon114@naver.com";
 		String title = "테스트 메일 입니다.";
 		String content = "테스트 내용 입니다.";
 		
